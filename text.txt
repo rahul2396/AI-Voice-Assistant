@@ -1,3 +1,0 @@
-deepgram :8cfd0936fd64fbc66455cbc67575007eff438fb4
-open api :sk-proj-0o6IAdmEebTrvlXmCrZHT3BlbkFJeNShGv7kRHo12wr88Bfp
-eleven labs :sk_f461e838b23d7f050d57c7763f15535ad217bd24a755ade5
